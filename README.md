@@ -4,9 +4,9 @@
 - 👨‍🎓 Técnico em Redes de Computadores
 - 👨‍💻 Graduando em Ciência da Computação
 - 🔭 Hoje sou estagiário de suporte de informática
-- 🌱 Estudando a linguagem python  <img align="center" alt="joao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+- 🌱 Estudando a linguagem python  
 - ⚡ Buscando melhor qualificação e aprimorar minhas soft skills
-- 💬 Contate-me pelo linkedin <img align="center" alt="joao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+- 💬 Contate-me pelo linkedin 
 ##
 <div style="display: inline_block"><br>
    - Sistemas Operacionais: <img align="center" alt="joao-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> 
