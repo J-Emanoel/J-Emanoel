@@ -54,10 +54,8 @@ Nesta seção, destaco as ferramentas e tecnologias com as quais trabalho ou pos
 
 ## 📊 Estatísticas do GitHub
 
-Abaixo estão as estatísticas que refletem a minha participação no GitHub e as tecnologias onde tenho maior foco dos meus repositórios:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Emanoel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="192px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-Emanoel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="192px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Emanoel&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="192px"/>
 </div>
 
