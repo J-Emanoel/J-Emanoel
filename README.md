@@ -10,10 +10,11 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Trabalhando como **Estagiário de desenvolvimento de software**.
-- 🌱 Atualmente concentrando meus estudos na linguagem **Java**.
-- 🎓 **Técnico em Redes de Computadores** e **Graduando em Ciência da Computação**.
-- ⚡ Buscando sempre aprimorar minha qualificação técnica e minhas *soft skills*.
+- 🎓 Graduando em Ciência da Computação na FAESA e Técnico em Redes de Computadores.
+- 💼 Atualmente atuo como Estagiário de Desenvolvimento de Software na Corregedoria Geral da Justiça do TJES, com experiência em manutenção e evolução de sistemas web, bancos de dados e implementação de regras de negócio.
+- 🚀 Meu foco profissional é o desenvolvimento Back-end, com interesse em oportunidades como Desenvolvedor Júnior e abertura para Full Stack.
+- 🛠️ Tecnologias: SQL, Oracle, SQL Server, ColdFusion (CFML), JavaScript, HTML e CSS. Também desenvolvo projetos e estudos com Java e Python.
+- 📂 Abaixo você encontra meus projetos acadêmicos, estudos e aplicações desenvolvidas durante minha trajetória em tecnologia.
 <br>
 
 ## 🚀 Ferramentas e Tecnologias
